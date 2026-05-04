@@ -30,7 +30,7 @@ Getting Started
 ---------------
 
 * Current faculty, staff, and students can request a license key by [completing the NVivo license key request form](https://mdl.library.utoronto.ca/technology/nvivo-software)
-* Please visit our tutorial on [installing and licensing NVivo 12](https://mdl.library.utoronto.ca/technology/tutorials/installing-and-licensing-nvivo-12) or installing and licensing NVivo 15 for [Windows](https://mdl.library.utoronto.ca/technology/tutorials/installing-and-licensing-nvivo-14-or-15-windows) or [Mac](https://mdl.library.utoronto.ca/technology/tutorials/installing-and-licensing-nvivo-14-or-15-mac)
+* Please visit our tutorial on installing and licensing NVivo 15 for [Windows](https://mdlutoronto.github.io/nvivo-15-windows-install-license/) or [Mac](https://mdlutoronto.github.io/nvivo-15-mac-install-license/)
 
 MDL Learning Resources
 ----------------------
@@ -51,32 +51,14 @@ Embedded below are recordings of our live workshops on NVivo 14/15 for both Wind
 
 [https://play.library.utoronto.ca/embed/a4c67af3b50ec8e5670261b6ce40606c](https://play.library.utoronto.ca/embed/a4c67af3b50ec8e5670261b6ce40606c)
 
-Embedded below are recordings of our live workshops on NVivo 12 for both Windows and Mac:
-
-#### [NVivo 12 for Windows](https://play.library.utoronto.ca/watch/236b6b5e62ca4978dfd7acb16491e93b)
-
-* To follow along, please [download the setup instructions](https://maps.library.utoronto.ca/workshops/NVivoOnline/Windows/SetupInstructionsWindows.pdf) to get all the slides and sample datasets used in the workshop for Windows
-
-[https://play.library.utoronto.ca/embed/1a6c3607743894c6196fa2720c76d65e](https://play.library.utoronto.ca/embed/1a6c3607743894c6196fa2720c76d65e)
-
-#### [NVivo 12 for Mac](https://play.library.utoronto.ca/watch/9d876898614616a6d45fdb2e41e565ab)
-
-* To follow along, please [download the setup instructions](https://maps.library.utoronto.ca/workshops/NVivoOnline/Mac/SetupInstructionsMac.pdf) to get all the slides and sample datasets used in the workshop for Mac
-
-[https://play.library.utoronto.ca/embed/9d876898614616a6d45fdb2e41e565ab](https://play.library.utoronto.ca/embed/9d876898614616a6d45fdb2e41e565ab)
-
 ### Tutorials
 
-* [Introduction to NVivo 12 for Windows](https://mdl.library.utoronto.ca/technology/tutorials/introduction-nvivo-12-windows)
-* [Introduction to NVivo 12 for Mac](https://mdl.library.utoronto.ca/technology/tutorials/introduction-nvivo-12-mac)
-* [Importing Alternative Sources in NVivo 12 for Windows](https://mdl.library.utoronto.ca/technology/tutorials/importing-alternative-sources-nvivo-12-windows)
-* [Importing Alternative Sources in NVivo 12 for Mac](https://mdl.library.utoronto.ca/technology/tutorials/importing-alternative-sources-nvivo-12-mac)
-* [Introduction to NVivo 14/15 for Windows](https://mdl.library.utoronto.ca/technology/tutorials/introduction-nvivo-14-windows)
-* [Introduction to NVivo 14/15 for Mac](https://mdl.library.utoronto.ca/technology/tutorials/introduction-nvivo-14-mac)
-* [Importing Alternative Sources in NVivo 14/15 for Windows](https://mdl.library.utoronto.ca/technology/tutorials/importing-alternative-sources-nvivo-14-windows)
-* [Importing Alternative Sources in NVivo 14/15 for Mac](https://mdl.library.utoronto.ca/technology/tutorials/importing-alternative-sources-nvivo-14-mac)
-* [Transcription Options](https://mdl.library.utoronto.ca/technology/tutorials/transcription-options)
-* [Working in Teams Using NVivo](https://mdl.library.utoronto.ca/technology/tutorials/working-teams-using-nvivo)
+* [Introduction to NVivo 14/15 for Windows](https://mdlutoronto.github.io/nvivo-14-15-windows-intro/)
+* [Introduction to NVivo 14/15 for Mac](https://mdlutoronto.github.io/nvivo-14-15-mac-intro)
+* [Importing Alternative Sources in NVivo 14/15 for Windows](https://mdlutoronto.github.io/nvivo-14-15-windows-importing-alternative-sources/)
+* [Importing Alternative Sources in NVivo 14/15 for Mac](https://mdlutoronto.github.io/nvivo-14-15-mac-importing-alternative-sources/)
+* [Transcription Options](https://mdlutoronto.github.io/transcription-options/)
+* [Working in Teams Using NVivo](https://mdlutoronto.github.io/working-teams-nvivo/)
 
 Additional Resources to Learn More
 ----------------------------------
@@ -98,6 +80,6 @@ Additional Resources to Learn More
 ### Related Information
 
 [Introduction to OCR and Searchable PDFs: Adobe Acrobat Pro](https://guides.library.illinois.edu/c.php?g=347520&p=4116755)  
-[Qualitative Data Analysis Software Options](https://mdl.library.utoronto.ca/technology/tutorials/qualitative-data-analysis-software-options)
+[Qualitative Data Analysis Software Options](https://mdlutoronto.github.io/qualitative-data-analysis-software-options/)
 
 Technique: [Qualitative Data Analysis](/technique/qualitative-data-analysis) \| Tools: [NVivo](/tools/nvivo)**Date Created:** 2022\-05\-06**Updated:** 2025\-08\-18
