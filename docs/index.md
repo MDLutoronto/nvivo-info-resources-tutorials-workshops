@@ -99,4 +99,4 @@ Additional Resources to Learn More
 * [Introduction to OCR and Searchable PDFs: Adobe Acrobat Pro](https://guides.library.illinois.edu/c.php?g=347520&p=4116755)  
 * [Qualitative Data Analysis Software Options](https://mdlutoronto.github.io/qualitative-data-analysis-software-options/)
 
-Technique: [Qualitative Data Analysis](/technique/qualitative-data-analysis) \| Tools: [NVivo](/tools/nvivo)**Date Created:** 2022\-05\-06**Updated:** 2025\-08\-18
+Technique: [Qualitative Data Analysis](/technique/qualitative-data-analysis) \| Tools: [NVivo](/tools/nvivo)
