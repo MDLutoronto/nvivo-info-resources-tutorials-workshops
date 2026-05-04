@@ -1,8 +1,14 @@
 ---
 title: "NVivo: Information, Resources, Tutorials, and Workshops"
 layout: "home"
-description: ""
-permalink: "/"  #! Remove this if not the homepage
+description: "NVivo is a program used for qualitative data analysis. It supports researchers in managing, organizing, and analyzing qualitative data to produce new insight, infer relationships, and identify themes."
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer: 
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2022-05-06
 ---
 
 # NVivo: Information, Resources, Tutorials, and Workshops
