@@ -22,7 +22,7 @@ Additional Resources to Learn More
 * [Using NVivo and Qualitative Data Analysis](https://help-nv.qsrinternational.com/14/mac/Content/concepts-strategies/using-nvivo-for-qualitative-research.htm)\[Mac]
 * [NVivo coding](https://help-nv.qsrinternational.com/14/win/Content/concepts-strategies/code-sources-manage-codes.htm)\[Windows]
 * [NVivo coding](https://help-nv.qsrinternational.com/14/mac/Content/concepts-strategies/code-sources-manage-codes.htm)\[Mac]
-* [SAGE’s Coding Resources](https://methods-sagepub-com.myaccess.library.utoronto.ca/Search/Results?q=PwSwdgxgNgrgJgUwKJgC4gE4IOoHsMDWAzgLyoYwIBk408CACgIYaqnmU2SyIDKCAcwC2CNOwrUCCAJ4B3fHFIBSAKwAhJQHYNAJh0AzEAihwlepQGYAgmYMwoUVAgAeqW2YDCtp6-fXbELhw4ALumgAiquFAA)
+* [SAGE’s Coding Resources](https://methods.sagepub.com/Search/Results?q=PwSwdgxgNgrgJgUwKJgC4gE4IOoHsMDWAzgLyoYwIBk408CACgIYaqnmU2SyIDKCAcwC2CNOwrUCCAJ4B3fHFIBSAKwAhJQHYNAJh0AzEAihwlepQGYAgmYMwoUVAgAeqW2YDCtp6-fXbELhw4ALumgAiquFAA)
 * [Essential Guide to Coding Qualitative Data](https://delvetool.com/guide)
 * [The Coding Manual for Qualitative Researchers](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106523498006196) by Saldaña \[Print Book]
 * [NVivo Workshop materials and many resources from UBC](https://ubc-library-rc.github.io/nvivo/)  
