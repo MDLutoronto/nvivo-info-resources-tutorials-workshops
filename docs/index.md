@@ -45,17 +45,17 @@ MDL Learning Resources
 
 Embedded below are recordings of our live workshops on NVivo 14/15 for both Windows and Mac:
 
-#### [NVivo 14/15 for Windows](https://play.library.utoronto.ca/watch/30208ba797e6dab0b4ee1e77c6ad9f5e)
+#### [NVivo 14/15 for Windows](https://play.library.utoronto.ca/watch/09a91c4a8647d84b52f7f9727ff99b7a)
 
-* To follow along, please [download the setup instructions](https://maps.library.utoronto.ca/workshops/NVivo14/Windows/SetupInstructions.pdf) to get all the slides and sample datasets used in the workshop for Windows
+* To follow along, please [download the setup instructions](https://maps.library.utoronto.ca/workshops/NVivo14/Windows/SetupInstructionsWindows.pdf) to get all the slides and sample datasets used in the workshop for Windows
 
-<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/09a91c4a8647d84b52f7f9727ff99b7a" frameborder="0" allowfullscreen> iframe not supported </iframe>
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/09a91c4a8647d84b52f7f9727ff99b7a" frameborder="0" allowfullscreen=""> iframe not supported </iframe>
 
-#### [NVivo 14/15 for Mac](https://play.library.utoronto.ca/watch/6d2861222e2095afda68e5410bc19f54)
+#### [NVivo 14/15 for Mac](https://play.library.utoronto.ca/watch/a4c67af3b50ec8e5670261b6ce40606c)
 
 * To follow along, please [download the setup instructions](https://maps.library.utoronto.ca/workshops/NVivo14/Mac/SetupInstructionsMac.pdf) to get all the slides and sample datasets used in the workshop for Mac
 
-<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/a4c67af3b50ec8e5670261b6ce40606c" frameborder="0" allowfullscreen> iframe not supported </iframe>
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/a4c67af3b50ec8e5670261b6ce40606c" frameborder="0" allowfullscreen=""> iframe not supported </iframe>
 
 ### Tutorials
 
