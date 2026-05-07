@@ -3,6 +3,13 @@ title: MDL Learning Resources
 parent: NVivo:Information, Resources, Tutorials, and Workshops  
 nav_order: 2
 layout: default
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer: 
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2022-05-06
 ---
 MDL Learning Resources
 ----------------------
