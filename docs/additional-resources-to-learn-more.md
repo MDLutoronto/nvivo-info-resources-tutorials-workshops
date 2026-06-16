@@ -1,6 +1,6 @@
 ---
 title: Additional Resources to Learn More
-parent: NVivo:Information, Resources, Tutorials, and Workshops  
+parent: "NVivo: Information, Resources, Tutorials, and Workshops"
 nav_order: 3
 layout: default
 staff:
