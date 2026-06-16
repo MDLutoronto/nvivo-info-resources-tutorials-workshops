@@ -1,6 +1,6 @@
 ---
 title: MDL Learning Resources
-parent: NVivo:Information, Resources, Tutorials, and Workshops  
+parent: "NVivo: Information, Resources, Tutorials, and Workshops"
 nav_order: 2
 layout: default
 staff:

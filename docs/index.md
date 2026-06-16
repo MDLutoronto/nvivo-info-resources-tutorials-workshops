@@ -1,5 +1,5 @@
 ---
-title: "NVivo:Information, Resources, Tutorials, and Workshops"
+title: "NVivo: Information, Resources, Tutorials, and Workshops"
 layout: "home"
 description: "NVivo is a program used for qualitative data analysis. It supports researchers in managing, organizing, and analyzing qualitative data to produce new insight, infer relationships, and identify themes."
 staff:
